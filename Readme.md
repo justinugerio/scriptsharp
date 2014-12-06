@@ -35,4 +35,4 @@ Thanks to [all the contributors](https://github.com/nikhilk/scriptsharp/graphs/c
 
 ### License ###
 Copyright (c) 2012, Script# Project.
-Script# is licensed under the Apache 2.0 License.
+Script# is licensed under the Apache 2.0 License
